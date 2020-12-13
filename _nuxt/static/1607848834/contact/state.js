@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fegirna-website\u002F_nuxt\u002Fstatic\u002F1607848834",layout:"empty",error:{statusCode:404,path:a,message:"This page could not be found"},serverRendered:false,routePath:a,config:{}}}("\u002Fcontact"));
